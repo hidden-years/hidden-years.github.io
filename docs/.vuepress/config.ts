@@ -13,7 +13,10 @@ export default defineUserConfig({
   theme: plumeTheme({
     // 添加您的部署域名
     // hostname: 'https://your_site_url',
-
+    footer: {
+     copyright: "Copyright © 2023-present 隐藏之年开发组",
+     message:  "「探索未知的世间」"
+    },
     plugins: {
       /**
        * Shiki 代码高亮

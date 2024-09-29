@@ -1,13 +1,29 @@
-import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
+import { defineNoteConfig, defineNotesConfig } from "vuepress-theme-plume";
 
-const demoNote = defineNoteConfig({
-  dir: 'demo',
-  link: '/demo',
-  sidebar: ['', 'foo', 'bar'],
-})
+const tutorialsNote = defineNoteConfig({
+  dir: "tutorials",
+  link: "/docs/tutorials",
+  sidebar: [
+    {
+      text: "开始",
+      items: ["", "what-is-hy2", "start", "manual-import"],
+    },
+  ],
+});
+
+const aboutNote = defineNoteConfig({
+  dir: "about",
+  link: "/docs/about",
+  sidebar: [
+    {
+      text: "关于",
+      items: ["","contribute", "future", "license"],
+    },
+  ],
+});
 
 export const notes = defineNotesConfig({
-  dir: 'notes',
-  link: '/',
-  notes: [demoNote],
-})
+  dir: "docs",
+  link: "/",
+  notes: [tutorialsNote, aboutNote],
+});
