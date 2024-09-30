@@ -1,12 +1,18 @@
-import { defineUserConfig } from 'vuepress'
-import { viteBundler } from '@vuepress/bundler-vite'
-import { plumeTheme } from 'vuepress-theme-plume'
+import { defineUserConfig } from "vuepress";
+import { viteBundler } from "@vuepress/bundler-vite";
+import { plumeTheme } from "vuepress-theme-plume";
 
 export default defineUserConfig({
-  base: '/',
-  lang: 'zh-CN',
-  title: '隐藏之年',
-  description: '探索未知的世间',
+  base: "/",
+  head: [
+    [
+      "link",
+      { rel: "icon", href: `https://s21.ax1x.com/2024/07/11/pkhrmIf.png` },
+    ],
+  ],
+  lang: "zh-CN",
+  title: "隐藏之年",
+  description: "探索未知的世间",
 
   bundler: viteBundler(),
 
@@ -14,8 +20,8 @@ export default defineUserConfig({
     // 添加您的部署域名
     // hostname: 'https://your_site_url',
     footer: {
-     copyright: "Copyright © 2023-present 隐藏之年开发组",
-     message:  "「探索未知的世间」"
+      copyright: "Copyright © 2023-present 隐藏之年开发组",
+      message: "「探索未知的世间」",
     },
     plugins: {
       /**
@@ -33,11 +39,11 @@ export default defineUserConfig({
        */
       markdownEnhance: {
         demo: true,
-      //   include: true,
-      //   chart: true,
-      //   echarts: true,
-      //   mermaid: true,
-      //   flowchart: true,
+        //   include: true,
+        //   chart: true,
+        //   echarts: true,
+        //   mermaid: true,
+        //   flowchart: true,
       },
 
       /**
@@ -78,4 +84,4 @@ export default defineUserConfig({
       // },
     },
   }),
-})
+});

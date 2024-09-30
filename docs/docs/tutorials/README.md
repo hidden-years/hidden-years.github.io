@@ -9,4 +9,6 @@ tags:
 <CardGrid>
 <LinkCard title="什么是隐藏之年" href="/docs/tutorials/what-is-hy2" description="了解隐藏之年是什么" />
 <LinkCard title="快速开始" href="/docs/tutorials/start" description="开始一段新的旅程吧" />
+<LinkCard title="材料" href="/docs/tutorials/material" description="从前期过渡的廉价材料到后期的毕业材料！" />
+<LinkCard title="机制" href="/docs/tutorials/gameplay" description="了解隐藏之年独有的游戏机制" />
 </CardGrid>

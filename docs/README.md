@@ -17,8 +17,8 @@ config:
           link: /docs/tutorials/what-is-hy2
         -
           theme: alt
-          text: 文档 →
-          link: /docs/index
+          text: 教程 →
+          link: /docs/tutorials/
   -
     type: features
     features:
