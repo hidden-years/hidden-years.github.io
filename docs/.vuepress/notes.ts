@@ -70,6 +70,24 @@ const aboutNote = defineNoteConfig({
   ],
 });
 
+const verNote = defineNoteConfig({
+  dir: "version",
+  link: "/version",
+  sidebar: [
+    {
+      text: "关于",
+      items: ["desert"],
+      collapsed: false,
+    },
+  ],
+});
+
+export const version = defineNotesConfig({
+  dir: "version",
+  link: "/",
+  notes: [verNote],
+});
+
 export const notes = defineNotesConfig({
   dir: "docs",
   link: "/",
