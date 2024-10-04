@@ -8,7 +8,7 @@ const tutorialsNote = defineNoteConfig({
       text: "开始",
       items: ["", "what-is-hy2", "start", "manual-import"],
       collapsed: false,
-      icon: "material-symbols:browse-gallery"
+      icon: "material-symbols:browse-gallery",
     },
     {
       text: "材料",
@@ -31,17 +31,29 @@ const tutorialsNote = defineNoteConfig({
         "material/smaragdus",
       ],
       collapsed: true,
-      icon: "material-symbols:breakfast-dining"
+      icon: "material-symbols:breakfast-dining",
     },
     {
-      text: "机制",
+      text: "工具与武器",
       items: [
-        "gameplay/",
-        "gameplay/imitation-damage",
-        "gameplay/article",
+        "tool/",
+        "tool/skill",
+        "tool/magic-attack",
+        "tool/hammer",
+        "tool/crowbar",
+        "tool/awl",
+        "tool/knife",
+        "tool/dagger",
+        "tool/boardsword",
       ],
       collapsed: true,
-      icon: "material-symbols:videogame-asset"
+      icon: "material-symbols:tools-power-drill",
+    },
+    {
+      text: "游戏内容",
+      items: ["gameplay/", "gameplay/imitation-damage", "gameplay/article"],
+      collapsed: true,
+      icon: "material-symbols:videogame-asset",
     },
   ],
 });
@@ -53,7 +65,7 @@ const aboutNote = defineNoteConfig({
     {
       text: "关于",
       items: ["", "contribute", "future", "license"],
-      collapsed: false
+      collapsed: false,
     },
   ],
 });
