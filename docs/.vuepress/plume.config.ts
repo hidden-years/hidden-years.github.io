@@ -18,14 +18,11 @@ export default defineThemeConfig({
     name: '隐藏之年开发组',
     description: '鸽子们的聚集地',
     // circle: true,
-    // location: '',
-    // organization: '',
+    location: '地球',
+    organization: '星屹工作室',
   },
 
   navbar,
   notes,
-  social: [
-    { icon: 'github', link: '/' },
-  ],
 
 })

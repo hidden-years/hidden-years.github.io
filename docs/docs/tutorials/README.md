@@ -2,6 +2,7 @@
 title: 教程·主页
 createTime: 2024/09/29 16:10:55
 permalink: /docs/tutorials/
+icon: bxs:home
 tags:
   - 教程
   - 索引

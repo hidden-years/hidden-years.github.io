@@ -4,9 +4,10 @@ const tutorialsNote = defineNoteConfig({
   dir: "tutorials",
   link: "/docs/tutorials",
   sidebar: [
+    "",
     {
       text: "开始",
-      items: ["", "what-is-hy2", "start", "manual-import"],
+      items: ["what-is-hy2", "start", "manual-import"],
       collapsed: false,
       icon: "material-symbols:browse-gallery",
     },
@@ -55,6 +56,21 @@ const tutorialsNote = defineNoteConfig({
       collapsed: true,
       icon: "material-symbols:videogame-asset",
     },
+    {
+      text: "物品",
+      items: [
+        "item/chocolate",
+        "item/copper-food",
+        "item/honey-candy",
+        "item/marshallow",
+        "item/medicine",
+        "item/syrup",
+        "item/fuel-metal",
+        "item/mineral-fuel",
+      ],
+      collapsed: true,
+      icon: "lucide:pickaxe",
+    },
   ],
 });
 
@@ -80,12 +96,6 @@ const verNote = defineNoteConfig({
       collapsed: false,
     },
   ],
-});
-
-export const version = defineNotesConfig({
-  dir: "version",
-  link: "/",
-  notes: [verNote],
 });
 
 export const notes = defineNotesConfig({

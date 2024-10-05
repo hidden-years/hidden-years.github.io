@@ -9,10 +9,6 @@ export const navbar = defineNavbarConfig([
     icon: "material-symbols:book",
   },
   {
-    text: "「风起层沙」",
-    link: "/docs/version/desert"
-  },
-  {
     text: "关于",
     icon: "material-symbols:more",
     items: [

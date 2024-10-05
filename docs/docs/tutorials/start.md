@@ -2,7 +2,7 @@
 title: 快速开始
 createTime: 2024/09/29 14:52:41
 permalink: /docs/tutorials/start/
-icon: material-symbols:important-devices
+icon: fluent:box-24-filled
 tags:
   - 教程
   - 入门教程
