@@ -51,8 +51,18 @@ const tutorialsNote = defineNoteConfig({
       icon: "material-symbols:tools-power-drill",
     },
     {
+      text: "BOSS",
+      items: [
+        "boss/",
+        "boss/king-of-ruby",
+        "boss/pharaohs-ghost",
+      ],
+      collapsed: true,
+      icon: "game-icons:axolotl",
+    },
+    {
       text: "游戏内容",
-      items: ["gameplay/", "gameplay/imitation-damage", "gameplay/article"],
+      items: ["gameplay/", "gameplay/imitation-damage", "gameplay/article", "gameplay/blood-armor"],
       collapsed: true,
       icon: "material-symbols:videogame-asset",
     },
