@@ -7,13 +7,19 @@ const hy2Tutorials = defineNoteConfig({
     "",
     {
       text: "从这里开始",
-      items: ["what-is-hy2", "start", "materials","tools-and-weapons"],
+      items: [
+        "what-is-hy2",
+        "start",
+        "materials",
+        "tools-and-weapons",
+        "plugins",
+      ],
       collapsed: false,
       icon: "material-symbols:browse-gallery",
     },
     {
       text: "高级教程",
-      items: ["manual-import","get-content-log"],
+      items: ["manual-import", "get-content-log"],
       collapsed: false,
       icon: "material-symbols:border-all-rounded",
     },
