@@ -7,7 +7,7 @@ const hy2Tutorials = defineNoteConfig({
     "",
     {
       text: "从这里开始",
-      items: ["what-is-hy2", "start"],
+      items: ["what-is-hy2", "start", "materials"],
       collapsed: false,
       icon: "material-symbols:browse-gallery",
     },
