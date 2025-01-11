@@ -13,12 +13,8 @@ config:
       actions:
         -
           theme: brand
-          text: 开始
+          text: 开始探索
           link: /docs/tutorials/what-is-hy2
-        -
-          theme: alt
-          text: 教程 →
-          link: /docs/tutorials/
   -
     type: features
     features:
