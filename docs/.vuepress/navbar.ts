@@ -6,6 +6,11 @@ export const navbar = defineNavbarConfig([
   {
     text: "教程",
     link: "/docs/tutorials/",
+    icon: "material-symbols:book-4-spark",
+  },
+  {
+    text: "Wiki",
+    link: "/docs/wiki/",
     icon: "material-symbols:book",
   },
   {
@@ -14,7 +19,7 @@ export const navbar = defineNavbarConfig([
     items: [
       "/docs/about/",
       "/docs/about/contribute",
-      "/docs/about/future",
+      "/docs/about/republish",
       "/docs/about/license",
     ]
   },

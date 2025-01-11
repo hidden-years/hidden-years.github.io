@@ -1,16 +1,30 @@
 import { defineNoteConfig, defineNotesConfig } from "vuepress-theme-plume";
 
-const tutorialsNote = defineNoteConfig({
+const hy2Tutorials = defineNoteConfig({
   dir: "tutorials",
   link: "/docs/tutorials",
   sidebar: [
     "",
     {
-      text: "开始",
-      items: ["what-is-hy2", "start", "manual-import"],
+      text: "从这里开始",
+      items: ["what-is-hy2", "start"],
       collapsed: false,
       icon: "material-symbols:browse-gallery",
     },
+    {
+      text: "高级教程",
+      items: ["manual-import","get-content-log"],
+      collapsed: false,
+      icon: "material-symbols:border-all-rounded",
+    },
+  ],
+});
+
+const hy2Wiki = defineNoteConfig({
+  dir: "wiki",
+  link: "/docs/wiki",
+  sidebar: [
+    "",
     {
       text: "材料",
       items: [
@@ -52,17 +66,18 @@ const tutorialsNote = defineNoteConfig({
     },
     {
       text: "BOSS",
-      items: [
-        "boss/",
-        "boss/king-of-ruby",
-        "boss/pharaohs-ghost",
-      ],
+      items: ["boss/", "boss/king-of-ruby", "boss/pharaohs-ghost"],
       collapsed: true,
       icon: "game-icons:axolotl",
     },
     {
       text: "游戏内容",
-      items: ["gameplay/", "gameplay/imitation-damage", "gameplay/article", "gameplay/blood-armor"],
+      items: [
+        "gameplay/",
+        "gameplay/imitation-damage",
+        "gameplay/article",
+        "gameplay/blood-armor",
+      ],
       collapsed: true,
       icon: "material-symbols:videogame-asset",
     },
@@ -84,25 +99,13 @@ const tutorialsNote = defineNoteConfig({
   ],
 });
 
-const aboutNote = defineNoteConfig({
+const hy2About = defineNoteConfig({
   dir: "about",
   link: "/docs/about",
   sidebar: [
     {
       text: "关于",
-      items: ["", "contribute", "future", "license"],
-      collapsed: false,
-    },
-  ],
-});
-
-const verNote = defineNoteConfig({
-  dir: "version",
-  link: "/version",
-  sidebar: [
-    {
-      text: "关于",
-      items: ["desert"],
+      items: ["", "contribute", "republish", "license"],
       collapsed: false,
     },
   ],
@@ -111,5 +114,5 @@ const verNote = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: "docs",
   link: "/",
-  notes: [tutorialsNote, aboutNote],
+  notes: [hy2Wiki, hy2About, hy2Tutorials],
 });

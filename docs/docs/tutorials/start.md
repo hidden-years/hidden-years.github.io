@@ -7,17 +7,13 @@ tags:
   - 教程
   - 入门教程
 ---
-## 玩前须知
-隐藏之年²基于`BSD 3-Clause`许可发布，你可以下载、游玩、转载、修改、再发布到任意地方，前提是**必须带有原来的协议、且不可以以星屹工作室、隐藏之年开发组、隐藏之年²的名字做市场推广**。
-
-我们**并不推荐**将隐藏之年²转载至外国平台[^脚注1]，因为本模组并没有实现完全的英文本地化；
-
-我们**非常反对**将其转载至网易版，因为两者使用的接口不一致，会导致非常非常多奇怪的问题，我们不对任何网易版上的隐藏之年移植版的质量负责。
-
 ## 下载
-- [基岩版下载](https://pan.huang1111.cn/s/xePzfV)
+目前我们提供了两种版本的隐藏之年²：
 
-- [Fabric版下载](https://www.mcmod.cn/download/12453.html)
+<CardGrid>
+<LinkCard title="基岩版下载" href="https://fanglimao.lanzoul.com/b00l1210uh" description="解锁密码：1234" />
+<LinkCard title="Fabric版下载" href="https://www.mcmod.cn/download/12453.html" description="" />
+</CardGrid>
 
 ## 安装
 ### 基岩版
@@ -50,4 +46,13 @@ tags:
 
 ::::
 
-[^脚注1]: 如Mcpedl
+## 任务与文章
+进入游戏之后，你会被自动给予**主线任务书**、**散落的信纸·千里之行与脚下之路**和**记忆文库**：
+
+[![pEPeUKJ.png](https://s21.ax1x.com/2025/01/11/pEPeUKJ.png)](https://imgse.com/i/pEPeUKJ)
+
+其中，使用主线任务书可以打开任务面板，当前版本任务面板的引导已经相对全面，跟着任务面板的引导一步步游玩时完全没有问题的。
+
+**文章**系统是本模组的一大特色，你需要在世界的各处战利品箱中搜寻**散落的信纸**，这些信纸都可以用于阅读，而**散落的信纸·千里之行与脚下之路**则可以帮助玩家较快集齐模组所有阅读物。
+
+<LinkCard title="Wiki:文章系统" href="/docs/wiki/gameplay/article" description="关于文章系统的详细介绍" />

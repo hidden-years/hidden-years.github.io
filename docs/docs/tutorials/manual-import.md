@@ -5,7 +5,6 @@ createTime: 2024/09/29 15:15:40
 permalink: /docs/tutorials/manual-import/
 tags:
   - 教程
-  - 入门教程
 ---
 有时Minecraft的自动导入可能出现资源缺失的问题，此时应尝试将模组手动导入至游戏目录内。
 
