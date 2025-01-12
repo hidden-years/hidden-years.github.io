@@ -3,8 +3,11 @@ title: 工具与武器
 createTime: 2025/01/11 14:58:13
 permalink: /docs/tutorials/tools-and-weapons/
 icon: mdi:pickaxe
+tags:
+  - 教程
+  - 入门教程
 ---
-本模组添加了一些工具与武器，让你的冒险之旅增添几分不一样的乐趣！
+本教程将概述本模组特有的一些工具及武器。
 
 ## 工具
 ### 锤

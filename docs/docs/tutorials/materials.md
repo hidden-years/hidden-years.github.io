@@ -4,6 +4,9 @@ article: false
 createTime: 2024/09/29 19:36:09
 permalink: /docs/tutorials/materials/
 icon: material-symbols:box
+tags:
+  - 教程
+  - 入门教程
 ---
 本模组的一大亮点就是为原版添加了许多新的材料，从前期过渡的廉价材料到后期的毕业材料都有涉及。
 

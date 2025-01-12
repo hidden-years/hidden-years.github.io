@@ -3,6 +3,9 @@ title: 拓展包
 createTime: 2025/01/11 15:07:44
 permalink: /docs/tutorials/plugins/
 icon: material-symbols:add-box
+tags:
+  - 教程
+  - 入门教程
 ---
 除了本体内容之外，你还可以体验本模组**拓展包**的内容
 
