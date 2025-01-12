@@ -1,5 +1,5 @@
 ---
-title: 磐石之旅 0.12.1
+title: 磐石之旅 0.13.0
 createTime: 2025/01/08
 author: 方漓猫
 tags:
