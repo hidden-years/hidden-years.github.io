@@ -6,12 +6,12 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "隐藏之年",
   description: "探索未知的世间",
-  /*head: [
+  head: [
     [
       "link",
       { rel: "icon", href: `https://s21.ax1x.com/2024/07/11/pkhrmIf.png` },
     ],
-  ],*/
+  ],
 
   theme: plumeTheme({
     footer: {
