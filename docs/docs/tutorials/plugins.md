@@ -9,7 +9,8 @@ icon: material-symbols:add-box
 ## 下载与安装
 <LinkCard title="拓展包下载" href="https://fanglimao.lanzoul.com/b00l1210uh" description="解锁密码：1234" />
 
-拓展包的安装可参见(教程:快速开始)[/docs/tutorials/start]。
+拓展包的安装可参见这里：
+<LinkCard title="教程:快速开始" href="/docs/tutorials/start" />
 
 ## 拓展包一览
 目前我们提供了如下拓展包：

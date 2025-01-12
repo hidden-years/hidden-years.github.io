@@ -14,7 +14,7 @@ config:
         -
           theme: brand
           text: 开始探索
-          link: /docs/wiki/what-is-hy2
+          link: /docs/tutorials/what-is-hy2
   -
     type: features
     features:

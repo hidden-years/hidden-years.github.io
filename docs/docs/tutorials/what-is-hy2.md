@@ -39,6 +39,7 @@ tags:
 
 如果要进行转载或二次分发，你必须附上以下许可证并标明原作者：
 
+::: details 单击此处以展开许可证
 ```
 BSD 3-Clause License
 
@@ -69,6 +70,7 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
+:::
 
 ## 写在最后
 愿所有看到这里的冒险家能够在隐藏之年的世界中获得不一样的乐趣！

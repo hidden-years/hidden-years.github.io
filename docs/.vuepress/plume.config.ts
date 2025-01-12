@@ -8,10 +8,8 @@ import { notes } from './notes'
 export default defineThemeConfig({
   logo: 'https://s21.ax1x.com/2024/07/11/pkhrmIf.png',
   // your git repo url
-  docsRepo: '',
+  docsRepo: 'https://codeberg.org/hy2/page-source',
   docsDir: 'docs',
-
-  appearance: true,
 
   profile: {
     avatar: 'https://s21.ax1x.com/2024/07/12/pk4ihOf.png',

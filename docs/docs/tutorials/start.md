@@ -12,7 +12,7 @@ tags:
 
 <CardGrid>
 <LinkCard title="基岩版下载" href="https://fanglimao.lanzoul.com/b00l1210uh" description="解锁密码：1234" />
-<LinkCard title="Fabric版下载" href="https://www.mcmod.cn/download/12453.html" description="" />
+<LinkCard title="Fabric版下载" href="https://www.mcmod.cn/download/12453.html" description="极度不建议使用，新版本将不会兼容旧版本存档！" />
 </CardGrid>
 
 ## 安装
@@ -34,6 +34,8 @@ tags:
 ### Java版
 > [!IMPORTANT]
 > 我们目前的开发中心集中在基岩版上，Java版内容非常不完善，而且更新速度很慢。 
+> 
+> 我们目前正在重写隐藏之年Java版，新版本将**不会**兼容旧版本存档！
 
 :::: steps
 1. 安装模组到游戏中

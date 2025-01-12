@@ -3,85 +3,33 @@ import { viteBundler } from "@vuepress/bundler-vite";
 import { plumeTheme } from "vuepress-theme-plume";
 
 export default defineUserConfig({
-  base: "/",
-  head: [
+  lang: "zh-CN",
+  title: "隐藏之年",
+  description: "探索未知的世间",
+  /*head: [
     [
       "link",
       { rel: "icon", href: `https://s21.ax1x.com/2024/07/11/pkhrmIf.png` },
     ],
-  ],
-  lang: "zh-CN",
-  title: "隐藏之年",
-  description: "探索未知的世间",
-
-  bundler: viteBundler(),
+  ],*/
 
   theme: plumeTheme({
-    // 添加您的部署域名
-    // hostname: 'https://your_site_url',
     footer: {
       copyright: "Copyright © 2023-present 隐藏之年开发组",
       message: "「探索未知的世间」",
     },
     plugins: {
       /**
-       * Shiki 代码高亮
-       * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
-       */
-      // shiki: {
-      //   languages: ['shell', 'bash', 'typescript', 'javascript'],
-      //   twoslash: true,
-      // },
-
-      /**
-       * markdown enhance
-       * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
-       */
-      markdownEnhance: {
-        demo: true,
-        //   include: true,
-        //   chart: true,
-        //   echarts: true,
-        //   mermaid: true,
-        //   flowchart: true,
-      },
-
-      /**
        *  markdown power
-       * @see https://theme-plume.vuejs.press/config/plugin/markdown-power/
+       * @see https://theme-plume.vuejs.press/config/plugins/markdown-power/
        */
-      // markdownPower: {
-      //   pdf: true,
-      //   caniuse: true,
-      //   plot: true,
-      //   bilibili: true,
-      //   youtube: true,
-      //   icons: true,
-      //   codepen: true,
-      //   replit: true,
-      //   codeSandbox: true,
-      //   jsfiddle: true,
-      //   repl: {
-      //     go: true,
-      //     rust: true,
-      //     kotlin: true,
-      //   },
-      // },
-
-      /**
-       * comments
-       * @see https://theme-plume.vuejs.press/guide/features/comments/
-       */
-      // comment: {
-      //   provider: '', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-      //   comment: true,
-      //   repo: '',
-      //   repoId: '',
-      //   categoryId: '',
-      //   mapping: 'pathname',
-      //   reactionsEnabled: true,
-      //   inputPosition: 'top',
-      // },
+       markdownPower: {
+         plot: true,
+         bilibili: true,
+         icons: true,
+       },
     },
   }),
+
+  bundler: viteBundler(),
 });
