@@ -1,5 +1,5 @@
 ---
-title: 材料
+title: 材料·概述
 article: false
 createTime: 2024/09/29 19:36:09
 permalink: /docs/wiki/material/
@@ -36,7 +36,3 @@ icon: material-symbols:box
   可以合成坚硬的盔甲，但是不能合成工具、武器
 </Card>
 </CardGrid>
-
-
-## 仿制伤害
-使用仿制工具、武器造成的对使用者的伤害，每次使用有5%概率造成2点伤害。

@@ -1,6 +1,6 @@
 ---
 title: 铜食物
-permalink: /docs/wiki/item/copper-food
+permalink: /docs/wiki/hiddendelight/copper-food
 tags:
   - 教程
   - 食物

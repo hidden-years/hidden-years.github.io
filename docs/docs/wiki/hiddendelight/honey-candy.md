@@ -1,6 +1,6 @@
 ---
 title: 蜜糖
-permalink: /docs/wiki/item/honey-candy
+permalink: /docs/wiki/hiddendelight/honey-candy
 tags:
   - 教程
   - 食物

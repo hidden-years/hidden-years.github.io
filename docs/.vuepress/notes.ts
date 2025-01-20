@@ -77,7 +77,7 @@ const hy2Wiki = defineNoteConfig({
       icon: "game-icons:axolotl",
     },
     {
-      text: "游戏内容",
+      text: "游戏机制",
       items: [
         "gameplay/",
         "gameplay/imitation-damage",
@@ -90,17 +90,35 @@ const hy2Wiki = defineNoteConfig({
     {
       text: "物品",
       items: [
-        "item/chocolate",
-        "item/copper-food",
-        "item/honey-candy",
-        "item/marshallow",
         "item/medicine",
-        "item/syrup",
         "item/fuel-metal",
         "item/mineral-fuel",
       ],
       collapsed: true,
       icon: "lucide:pickaxe",
+    },
+    {
+      text: "隐藏乐事",
+      items: [
+        "hiddendelight/",
+        "hiddendelight/chocolate",
+        "hiddendelight/copper-food",
+        "hiddendelight/honey-candy",
+        "hiddendelight/marshallow",
+        "hiddendelight/syrup"
+      ],
+      collapsed: true,
+      icon: "uil:food",
+    },
+    {
+      text: "开发文档",
+      items: [
+        "dev/",
+        "dev/upgrade",
+        "dev/tags"
+      ],
+      collapsed: true,
+      icon: "material-symbols:handyman",
     },
   ],
 });

@@ -1,6 +1,6 @@
 ---
 title: 糖水
-permalink: /docs/wiki/item/syrup
+permalink: /docs/wiki/hiddendelight/syrup
 tags:
   - 教程
   - 食物

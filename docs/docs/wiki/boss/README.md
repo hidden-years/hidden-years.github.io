@@ -1,5 +1,5 @@
 ---
-title: BOSS
+title: BOSS·概述
 permalink: /docs/wiki/boss/
 icon: game-icons:boss-key
 tags:

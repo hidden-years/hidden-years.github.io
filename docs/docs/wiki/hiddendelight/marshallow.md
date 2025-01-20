@@ -1,6 +1,6 @@
 ---
 title: 棉花糖
-permalink: /docs/wiki/item/marshallow
+permalink: /docs/wiki/hiddendelight/marshallow
 tags:
   - 教程
   - 食物

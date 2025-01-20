@@ -1,6 +1,6 @@
 ---
 title: 巧克力
-permalink: /docs/wiki/item/chocolate
+permalink: /docs/wiki/hiddendelight/chocolate
 tags:
   - 教程
   - 食物

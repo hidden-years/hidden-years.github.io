@@ -1,5 +1,5 @@
 ---
-title: 工具与武器
+title: 工具与武器·概述
 permalink: /docs/wiki/tool/
 icon: material-symbols:tools-flat-head
 tags:

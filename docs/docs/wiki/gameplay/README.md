@@ -1,5 +1,5 @@
 ---
-title: 游戏内容
+title: 游戏机制·概述
 createTime: 2024/09/29 20:23:18
 permalink: /docs/wiki/gameplay/
 icon: material-symbols:toys-and-games
