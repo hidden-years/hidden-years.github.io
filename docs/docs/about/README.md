@@ -12,6 +12,7 @@ icon: material-symbols:person
 - 方琉璃：所有者/策划/程序
 - 大队长_Captain：美术
 - RawDiamondMC：程序
+- Luning39：程序
 - KuLou_D：美术
 - 3xFRC：英文本地化/音乐
 - Engine：策划
@@ -20,6 +21,7 @@ icon: material-symbols:person
 ## 特别鸣谢
 
 - 吴仁辶：功能建议/剧情建议
+- portedboar44215：PBR纹理贡献者
 - 痴人心心念念：功能建议
 - portedboar44215：功能建议
 - 毅轩氵帖：功能建议
