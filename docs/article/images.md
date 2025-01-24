@@ -4,7 +4,7 @@ createTime: 2024/07/12
 author: 方漓猫
 tags:
   - 宣传图
-permalink: /article/vbhdkztv/
+permalink: /article/ge4ie1or/
 ---
 
 这些图片拍摄于2.0.0将要发布之时，曾长期作为隐藏之年²的宣传图使用。

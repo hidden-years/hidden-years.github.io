@@ -115,7 +115,8 @@ const hy2Wiki = defineNoteConfig({
       items: [
         "dev/",
         "dev/upgrade",
-        "dev/tags"
+        "dev/tags",
+        "dev/trophy-bundle"
       ],
       collapsed: true,
       icon: "material-symbols:handyman",

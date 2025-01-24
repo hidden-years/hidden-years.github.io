@@ -6,7 +6,7 @@ tags:
   - 更新日志
   - 测试版日志
   - 磐石之旅
-permalink: /article/llu5wp9q/
+permalink: /article/wjyzgnxc/
 ---
 这次更新是磐石之旅 1.0.0 的第三个测试版，走出了假日创作者实验性玩法
 <!-- more -->

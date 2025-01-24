@@ -5,7 +5,7 @@ author: 方漓猫
 tags:
   - 更新日志
   - 石头工艺
-permalink: /article/s0sjcwjj/
+permalink: /article/uirmxxvi/
 ---
 这次更新走出了假日创作者实验性玩法
 <!-- more -->

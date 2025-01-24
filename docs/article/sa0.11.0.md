@@ -6,7 +6,7 @@ tags:
   - 更新日志
   - 测试版日志
   - 磐石之旅
-permalink: /article/xmr4a5x1/
+permalink: /article/bobeshcm/
 ---
 这次更新是磐石之旅 1.0.0 的第一个测试版，移植了石头工艺的绝大多数内容
 <!-- more -->

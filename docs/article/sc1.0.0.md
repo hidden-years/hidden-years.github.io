@@ -5,7 +5,7 @@ author: 方漓猫
 tags:
   - 更新日志
   - 石头工艺
-permalink: /article/cvlaatuz/
+permalink: /article/knwnyrqd/
 ---
 各位玩家， **石头工艺复活赛打赢了！！！！！！！！！！！**
 

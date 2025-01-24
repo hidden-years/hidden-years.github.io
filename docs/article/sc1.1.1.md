@@ -5,7 +5,7 @@ author: 方漓猫
 tags:
   - 更新日志
   - 石头工艺
-permalink: /article/m4k5l8mm/
+permalink: /article/7veg7fau/
 ---
 本次更新紧急修复了一个严重漏洞
 

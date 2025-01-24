@@ -6,7 +6,7 @@ tags:
   - 更新日志
   - 测试版日志
   - 磐石之旅
-permalink: /article/8d2m9vos/
+permalink: /article/alrn57sz/
 ---
 这次更新是磐石之旅 1.0.0 的第二个测试版，添加了尚在测试中的石剑锻造机制和失明药水等特性
 <!-- more -->

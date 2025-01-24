@@ -5,7 +5,7 @@ author: 方漓猫
 tags:
   - 更新日志
   - 石头工艺
-permalink: /article/d6vsliu7/
+permalink: /article/d765gvsl/
 ---
 本次更新优化了模组的包名称与描述
 

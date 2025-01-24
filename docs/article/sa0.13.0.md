@@ -6,7 +6,7 @@ tags:
   - 更新日志
   - 测试版日志
   - 磐石之旅
-permalink: /article/o8e1ohbd/
+permalink: /article/48s901lv/
 ---
 这次更新是磐石之旅 1.0.0 的第四个测试版。
 <!-- more -->

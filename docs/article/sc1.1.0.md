@@ -5,7 +5,7 @@ author: BakaBee
 tags:
   - 更新日志
   - 石头工艺
-permalink: /article/3m65o0wz/
+permalink: /article/kxdoxu2q/
 ---
 本次更新重新加入了石币交易
 

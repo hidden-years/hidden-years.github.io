@@ -4,7 +4,7 @@ createTime: 2024/08/19
 author: ？？？
 tags:
   - 背景故事
-permalink: /article/zksuy54j/
+permalink: /article/btmmvmjr/
 ---
 ## 背景故事·一
 自由撒下的籽粒在极底的位面生根发芽，诞生了现如今的人类，同人类一起诞生的，便是「精灵」一族。
