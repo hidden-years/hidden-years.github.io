@@ -20,5 +20,5 @@ tags:
 
 <CardGrid>
 <LinkCard title="手动导入" href="/docs/tutorials/manual-import" description="自动导入失效时的备用方案" />
-<LinkCard title="获取内容日志" href="/docs/tutorials/get-centent-log" description="反馈漏洞的必要步骤" />
+<LinkCard title="获取内容日志" href="/docs/tutorials/get-content-log" description="反馈漏洞的必要步骤" />
 </CardGrid>
