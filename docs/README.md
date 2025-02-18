@@ -45,7 +45,7 @@ config:
       -
         title: 以及更多
         icon: 🔍
-        details: 更多等待你的发现……
+        details: 等待你的发现……
   -
     type: custom
 ---
