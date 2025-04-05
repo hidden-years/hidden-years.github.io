@@ -5,16 +5,17 @@ externalLinkIcon: false
 config:
   -
     type: hero
+    background: https://s21.ax1x.com/2025/02/28/pE8P9X9.png
     full: true
     hero:
       name: 隐藏之年²
       tagline: 「探索未知的世间」
-      text: 一个仍在开发中的 Minecraft 冒险模组
+      text: 本网站正在重构，敬请期待……
       actions:
         -
           theme: brand
           text: 开始探索
-          link: /docs/tutorials/what-is-hy2
+          link: /docs/tutorials/what-is-hy2    
   -
     type: features
     features:

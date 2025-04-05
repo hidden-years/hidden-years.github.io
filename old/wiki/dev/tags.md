@@ -8,7 +8,7 @@ icon: material-symbols:humidity-percentage
 ### hy:imitation_tools
 将物品设置为仿制工具，使其使用时有概率对使用者造成伤害。
 
-### hy:corrosion_weapon
+### hy:corrosion_tier
 将物品设置为腐蚀武器，使其可进行腐蚀攻击。
 
 ### hy:magic_explode

@@ -5,7 +5,7 @@ import { plumeTheme } from "vuepress-theme-plume";
 export default defineUserConfig({
   lang: "zh-CN",
   title: "隐藏之年",
-  description: "探索未知的世间",
+  description: "本网站正在重构，敬请期待……",
   head: [
     [
       "link",
